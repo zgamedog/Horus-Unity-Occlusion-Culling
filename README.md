@@ -70,3 +70,8 @@ UNITY Perf
 
 visibilty func cost a lot 
 NOT useable 
+
+
+<p align="center">
+<img src="https://github.com/zgamedog/Horus-Unity-Occlusion-Culling/blob/master/perddd.png"/>
+</p>
