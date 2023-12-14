@@ -53,3 +53,20 @@ I use [SemVer](http://semver.org/) for versioning. Current version is 0.1
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+
+=========================
+compile dll
+
+1 out type as dll
+2 add path Include :
+
+porjDir/Project3;
+porjDir/Project3/ExLibs;
+
+==================================
+UNITY Perf
+
+visibilty func cost a lot 
+NOT useable 
